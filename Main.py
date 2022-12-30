@@ -81,7 +81,6 @@ def main():
 
     global window
     window = tk.Tk()
-
     window.geometry("600x400")
     window.title("VideoSplitter")
     window.iconbitmap("src/VideoSplitter.ico")
