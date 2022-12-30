@@ -19,12 +19,12 @@ pip install moviepy
 
 ## Utilisation
 
-    *1. Exécutez le fichier main.py pour lancer l'application.
-    *2. Sélectionnez un fichier vidéo en utilisant le bouton "Choisir un fichier".
-    *3. Sélectionnez un répertoire de destination en utilisant le bouton "Choisir un répertoire".
-    *4. Entrez la durée en secondes de chaque partie dans le champ "Durée de chaque partie (en secondes)".
-    *5. Cliquez sur le bouton "Diviser la vidéo" pour démarrer le processus de division.
-    *6. Attendez la fin du processus, les parties de la vidéo seront enregistrées dans le répertoire de destination sous le nom "part0.mp4", "part1.mp4", etc.
+1. Exécutez le fichier main.py pour lancer l'application.
+2. Sélectionnez un fichier vidéo en utilisant le bouton "Choisir un fichier".
+3. Sélectionnez un répertoire de destination en utilisant le bouton "Choisir un répertoire".
+4. Entrez la durée en secondes de chaque partie dans le champ "Durée de chaque partie (en secondes)".
+5. Cliquez sur le bouton "Diviser la vidéo" pour démarrer le processus de division.
+6. Attendez la fin du processus, les parties de la vidéo seront enregistrées dans le répertoire de destination sous le nom "part0.mp4", "part1.mp4", etc.
 
 ## Auteur
 
